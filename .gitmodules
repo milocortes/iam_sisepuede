@@ -1,0 +1,9 @@
+[submodule "sisepuede_calibration"]
+	path = sisepuede_calibration
+	url = https://github.com/milocortes/sisepuede_calibration.git
+[submodule "calibration_lac_dec"]
+	path = calibration_lac_dec
+	url = https://github.com/milocortes/calibration_lac_dec.git
+[submodule "sisepuede_data"]
+	path = sisepuede_data
+	url = https://github.com/milocortes/sisepuede_data.git
