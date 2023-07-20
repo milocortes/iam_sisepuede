@@ -7,3 +7,9 @@
 [submodule "sisepuede_data"]
 	path = sisepuede_data
 	url = https://github.com/milocortes/sisepuede_data.git
+[submodule "ssp_cost_benefits"]
+	path = ssp_cost_benefits
+	url = https://github.com/milocortes/ssp_cost_benefits.git
+[submodule "ssp_cost_converter"]
+	path = ssp_cost_converter
+	url = https://github.com/milocortes/ssp_cost_converter.git
