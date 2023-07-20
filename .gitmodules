@@ -13,3 +13,6 @@
 [submodule "ssp_cost_converter"]
 	path = ssp_cost_converter
 	url = https://github.com/milocortes/ssp_cost_converter.git
+[submodule "sisepuede"]
+	path = sisepuede
+	url = https://github.com/jcsyme/sisepuede.git
